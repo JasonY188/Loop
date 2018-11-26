@@ -1,0 +1,14 @@
+/Users/jasonyee/Desktop/Git_Projects/loop/backend/bin/Debug/netcoreapp2.1/backend.deps.json
+/Users/jasonyee/Desktop/Git_Projects/loop/backend/bin/Debug/netcoreapp2.1/backend.runtimeconfig.json
+/Users/jasonyee/Desktop/Git_Projects/loop/backend/bin/Debug/netcoreapp2.1/backend.runtimeconfig.dev.json
+/Users/jasonyee/Desktop/Git_Projects/loop/backend/bin/Debug/netcoreapp2.1/backend.dll
+/Users/jasonyee/Desktop/Git_Projects/loop/backend/bin/Debug/netcoreapp2.1/backend.pdb
+/Users/jasonyee/Desktop/Git_Projects/loop/backend/obj/Debug/netcoreapp2.1/backend.csprojAssemblyReference.cache
+/Users/jasonyee/Desktop/Git_Projects/loop/backend/obj/Debug/netcoreapp2.1/backend.csproj.CoreCompileInputs.cache
+/Users/jasonyee/Desktop/Git_Projects/loop/backend/obj/Debug/netcoreapp2.1/backend.RazorAssemblyInfo.cache
+/Users/jasonyee/Desktop/Git_Projects/loop/backend/obj/Debug/netcoreapp2.1/backend.RazorAssemblyInfo.cs
+/Users/jasonyee/Desktop/Git_Projects/loop/backend/obj/Debug/netcoreapp2.1/backend.AssemblyInfoInputs.cache
+/Users/jasonyee/Desktop/Git_Projects/loop/backend/obj/Debug/netcoreapp2.1/backend.AssemblyInfo.cs
+/Users/jasonyee/Desktop/Git_Projects/loop/backend/obj/Debug/netcoreapp2.1/backend.RazorTargetAssemblyInfo.cache
+/Users/jasonyee/Desktop/Git_Projects/loop/backend/obj/Debug/netcoreapp2.1/backend.dll
+/Users/jasonyee/Desktop/Git_Projects/loop/backend/obj/Debug/netcoreapp2.1/backend.pdb
